@@ -1,0 +1,19 @@
+Steps to do in this project
+
+1) go to command prompt and run // 
+       npm install -g create-react-app, hit enter
+       create-react-app, hit Enter
+	   create-react-app portfolio_zobeda, hit Enter
+	   cd portfolio_zobeda, hit Enter
+	   npm start, hit Enter
+	   
+	   Successfully Loaded React app on localhost-3000
+	   
+2) Go to VS Code and open the folder portfoli_zobeda
+   delete src--logo.svg
+          public--favicon
+		  app.js-- import React from logo.svg
+		           items inside div in the function App()/// You can add h1 "Hello World" inside div
+				   
+	
+				   
