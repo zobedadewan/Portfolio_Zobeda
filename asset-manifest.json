@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio_zobeda/static/css/main.b32c2155.chunk.css",
-    "main.js": "/portfolio_zobeda/static/js/main.f2fbb9ad.chunk.js",
-    "main.js.map": "/portfolio_zobeda/static/js/main.f2fbb9ad.chunk.js.map",
-    "runtime-main.js": "/portfolio_zobeda/static/js/runtime-main.6446ddbc.js",
-    "runtime-main.js.map": "/portfolio_zobeda/static/js/runtime-main.6446ddbc.js.map",
-    "static/css/2.e4346227.chunk.css": "/portfolio_zobeda/static/css/2.e4346227.chunk.css",
-    "static/js/2.172ad7e7.chunk.js": "/portfolio_zobeda/static/js/2.172ad7e7.chunk.js",
-    "static/js/2.172ad7e7.chunk.js.map": "/portfolio_zobeda/static/js/2.172ad7e7.chunk.js.map",
-    "index.html": "/portfolio_zobeda/index.html",
-    "precache-manifest.1f8ae19a350667a195745e644fe6c35c.js": "/portfolio_zobeda/precache-manifest.1f8ae19a350667a195745e644fe6c35c.js",
-    "service-worker.js": "/portfolio_zobeda/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/portfolio_zobeda/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.b32c2155.chunk.css.map": "/portfolio_zobeda/static/css/main.b32c2155.chunk.css.map",
-    "static/js/2.172ad7e7.chunk.js.LICENSE.txt": "/portfolio_zobeda/static/js/2.172ad7e7.chunk.js.LICENSE.txt"
+    "main.css": "/Portfolio_Zobeda/static/css/main.b32c2155.chunk.css",
+    "main.js": "/Portfolio_Zobeda/static/js/main.fff352eb.chunk.js",
+    "main.js.map": "/Portfolio_Zobeda/static/js/main.fff352eb.chunk.js.map",
+    "runtime-main.js": "/Portfolio_Zobeda/static/js/runtime-main.334ad711.js",
+    "runtime-main.js.map": "/Portfolio_Zobeda/static/js/runtime-main.334ad711.js.map",
+    "static/css/2.e4346227.chunk.css": "/Portfolio_Zobeda/static/css/2.e4346227.chunk.css",
+    "static/js/2.172ad7e7.chunk.js": "/Portfolio_Zobeda/static/js/2.172ad7e7.chunk.js",
+    "static/js/2.172ad7e7.chunk.js.map": "/Portfolio_Zobeda/static/js/2.172ad7e7.chunk.js.map",
+    "index.html": "/Portfolio_Zobeda/index.html",
+    "precache-manifest.59b87f969f97a0f9ec5b64cb5d96ad42.js": "/Portfolio_Zobeda/precache-manifest.59b87f969f97a0f9ec5b64cb5d96ad42.js",
+    "service-worker.js": "/Portfolio_Zobeda/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/Portfolio_Zobeda/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.b32c2155.chunk.css.map": "/Portfolio_Zobeda/static/css/main.b32c2155.chunk.css.map",
+    "static/js/2.172ad7e7.chunk.js.LICENSE.txt": "/Portfolio_Zobeda/static/js/2.172ad7e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6446ddbc.js",
+    "static/js/runtime-main.334ad711.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.172ad7e7.chunk.js",
     "static/css/main.b32c2155.chunk.css",
-    "static/js/main.f2fbb9ad.chunk.js"
+    "static/js/main.fff352eb.chunk.js"
   ]
 }
